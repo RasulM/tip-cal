@@ -36,7 +36,7 @@ public class helper {
              
         }
             else {
-                System.out.println("invaild enter");
+                System.out.println("invaild entry");
     }
         } 
         return s;
